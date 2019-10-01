@@ -1,0 +1,17 @@
+.navColor{
+    background-color: #12263A;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.colorText{
+    color: #f4edea;
+}
+.colorText :hover{  
+    color: #06bcc1;
+}
+
+#icon {
+    width: 40px;
+    height: 40px;
+}
